@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "cover_image": "https://i.ibb.co/j6wwqcw/pexels-photo-16368787.webp",
+    "title": "The Secret Garden",
+    "author_image": "https://i.ibb.co/qpqXV07/10-profile-picture-ideas-to-make-you-stand-out.jpg",
+    "author": "Eleanor G. Waters",
+    "posted_date": "2024-03-01",
+    "reading_time": 45,
+    "hashtags": ["#fiction", "#mystery", "#nature"]
+  },
+  {
+    "id": "002",
+    "cover_image": "https://i.ibb.co/smV4ZT2/pexels-photo-3653849.jpg",
+    "title": "City of Dreams",
+    "author_image": "https://i.ibb.co/qpqXV07/10-profile-picture-ideas-to-make-you-stand-out.jpg",
+    "author": "Lucas K. Park",
+    "posted_date": "2024-02-15",
+    "reading_time": 30,
+    "hashtags": ["#urban", "#fantasy", "#adventure"]
+  },
+  {
+    "id": "003",
+    "cover_image": "https://i.ibb.co/3WHcfLT/free-photo-of-feather-photo-and-paper-with-script-on-envelop.jpg",
+    "title": "Echoes of War",
+    "author_image": "https://i.ibb.co/qpqXV07/10-profile-picture-ideas-to-make-you-stand-out.jpg",
+    "author": "Isabella J. Stone",
+    "posted_date": "2024-02-28",
+    "reading_time": 60,
+    "hashtags": ["#historical", "#drama", "#romance"]
+  },
+  {
+    "id": "004",
+    "cover_image": "https://i.ibb.co/PNfjDLk/pexels-photo-735277.webp",
+    "title": "The Lost Kingdom",
+    "author_image": "https://i.ibb.co/qpqXV07/10-profile-picture-ideas-to-make-you-stand-out.jpg",
+    "author": "Nathan D. Knight",
+    "posted_date": "2024-03-05",
+    "reading_time": 50,
+    "hashtags": ["#adventure", "#fantasy", "#quest"]
+  },
+  {
+    "id": "005",
+    "cover_image": "https://i.ibb.co/vBqPVvx/pexels-photo-1054218.webp",
+    "title": "Dark Waters",
+    "author_image": "https://i.ibb.co/qpqXV07/10-profile-picture-ideas-to-make-you-stand-out.jpg",
+    "author": "Olivia M. Fox",
+    "posted_date": "2024-02-20",
+    "reading_time": 40,
+    "hashtags": ["#thriller", "#mystery", "#suspense"]
+  }
+]
