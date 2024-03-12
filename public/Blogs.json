@@ -38,15 +38,5 @@
     "posted_date": "2024-03-05",
     "reading_time": 50,
     "hashtags": ["#adventure", "#fantasy", "#quest"]
-  },
-  {
-    "id": "005",
-    "cover_image": "https://i.ibb.co/vBqPVvx/pexels-photo-1054218.webp",
-    "title": "Dark Waters",
-    "author_image": "https://i.ibb.co/qpqXV07/10-profile-picture-ideas-to-make-you-stand-out.jpg",
-    "author": "Olivia M. Fox",
-    "posted_date": "2024-02-20",
-    "reading_time": 40,
-    "hashtags": ["#thriller", "#mystery", "#suspense"]
   }
 ]
