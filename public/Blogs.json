@@ -2,45 +2,45 @@
   {
     "id": "001",
     "cover_image": "https://i.ibb.co/CWQf9ch/Rectangle-1.jpg",
-    "title": "The Secret Garden",
+    "title": "How to get your first job as a self-taught programmer",
     "author_image": "https://i.ibb.co/n8Vngbh/Ellipse-1.png",
     "author": "Eleanor G. Waters",
     "posted_date": "2024-03-01",
-    "post_time": "05 min read",
-    "reading_time": 45,
+    "post_time": "min read",
+    "time": 5,
     "hashtags": ["#fiction", "#mystery"]
   },
   {
     "id": "002",
     "cover_image": "https://i.ibb.co/dg9J12G/Rectangle-1.png",
-    "title": "City of Dreams",
+    "title": "Are There Basic Tips for Computer Programming Beginners?",
     "author_image": "https://i.ibb.co/C1Pvk5c/Ellipse-1-1.png",
     "author": "Lucas K. Park",
     "posted_date": "2024-02-15",
-    "post_time": "17 min read",
-    "reading_time": 30,
+    "post_time": "min read",
+    "time": 17,
     "hashtags": ["#urban", "#fantasy"]
   },
   {
     "id": "003",
     "cover_image": "https://i.ibb.co/dtmJ7Mr/Rectangle-1-1.png",
-    "title": "Echoes of War",
+    "title": "Ready to dive deeper into the fascinating world of robotics & AI?",
     "author_image": "https://i.ibb.co/xfcS09S/Ellipse-1-2.png",
     "author": "Isabella J. Stone",
     "posted_date": "2024-02-28",
-    "post_time": "09 min read",
-    "reading_time": 60,
+    "post_time": "min read",
+    "time": 9,
     "hashtags": ["#historical", "#drama"]
   },
   {
     "id": "004",
     "cover_image": "https://i.ibb.co/q97ym49/pexels-photo-1089438.webp",
-    "title": "The Lost Kingdom",
+    "title": "Algorithms are essential to the way computers process data.",
     "author_image": "https://i.ibb.co/n8Vngbh/Ellipse-1.png",
     "author": "Nathan D. Knight",
     "posted_date": "2024-03-05",
-    "post_time": "12 min read",
-    "reading_time": 50,
+    "post_time": "min read",
+    "time": 12,
     "hashtags": ["#adventure", "#fantasy"]
   }
 ]
